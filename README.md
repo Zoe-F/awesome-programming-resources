@@ -39,7 +39,7 @@ Please feel free to contribute to this page through [submitting pull requests][G
 
 ## Acknowledgements
 
-This repo was inspired from the awesome curated list https://github.com/taskflow/awesome-parallel-computing
+This repo was inspired by the awesome curated list https://github.com/taskflow/awesome-parallel-computing
 * * *
 
 [GitHub pull requests]:  https://github.com/Zoe-F/awesome-programming-resources/pulls
