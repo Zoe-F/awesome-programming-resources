@@ -42,5 +42,5 @@ Please feel free to contribute to this page through [submitting pull requests][G
 This repo was inspired from the awesome curated list https://github.com/taskflow/awesome-parallel-computing
 * * *
 
-[GitHub pull requests]:  https://github.com/taskflow/taskflow/pulls
+[GitHub pull requests]:  https://github.com/Zoe-F/awesome-programming-resources/pulls
 [email me]:              mailto:zf28@st-andrews.ac.uk
