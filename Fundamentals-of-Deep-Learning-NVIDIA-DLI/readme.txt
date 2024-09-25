@@ -1,0 +1,1 @@
+These are the jupyter notebooks and data required to follow the tutorial portion of Nvidia's Deep Learning Institute "Fundamentals of Deep Learning" online course. This version was delivered on 24/09/2024 by Jonny Hancox, in partnership with DiRAC. Many thanks to Jonny for the permission to share these materials.
