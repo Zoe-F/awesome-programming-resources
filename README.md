@@ -23,12 +23,12 @@ Please feel free to contribute to this page through [submitting pull requests][G
 
 #### C
  - Codecademy tutorials (note: the following individual courses are free, but the 'learn C' qualification is not):
-  - [Introduction](https://www.codecademy.com/learn/learn-c-introduction)
-  - [Pointers and Memory](https://www.codecademy.com/learn/learn-c-pointers-and-memory)
-  - [Variables and Operators](https://www.codecademy.com/learn/learn-c-variables-and-operators)
-  - [Conditionals and Loops](https://www.codecademy.com/learn/learn-c-conditionals-and-loops)
-  - [Arrays and Strings](https://www.codecademy.com/learn/learn-c-arrays-and-strings)
-  - [Functions and Structures](https://www.codecademy.com/learn/learn-c-functions-and-structures)
+     - [Introduction](https://www.codecademy.com/learn/learn-c-introduction)
+     - [Pointers and Memory](https://www.codecademy.com/learn/learn-c-pointers-and-memory)
+     - [Variables and Operators](https://www.codecademy.com/learn/learn-c-variables-and-operators)
+     - [Conditionals and Loops](https://www.codecademy.com/learn/learn-c-conditionals-and-loops)
+     - [Arrays and Strings](https://www.codecademy.com/learn/learn-c-arrays-and-strings)
+     - [Functions and Structures](https://www.codecademy.com/learn/learn-c-functions-and-structures)
 
  - [Learn-c tutorial](https://learn-c.org)
 
@@ -37,10 +37,10 @@ Please feel free to contribute to this page through [submitting pull requests][G
  - [(One of the many) Youtube video series on learning C](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif)
 
  - Some useful textbooks: 
-  - Programming in C by Stephen Kochan (4th edition, 2014)
-  - Head First C: a brain-friendly guide by David and Dawn Griffiths (2012)
-  - Sams Teach Yourself C in 21 Days by Bradley Jones and Peter Aitken (2002)
-  - C Programming in Easy Steps by Mike McGrath (5th Edition, 2018)
+     - Programming in C by Stephen Kochan (4th edition, 2014)
+     - Head First C: a brain-friendly guide by David and Dawn Griffiths (2012)
+     - Sams Teach Yourself C in 21 Days by Bradley Jones and Peter Aitken (2002)
+     - C Programming in Easy Steps by Mike McGrath (5th Edition, 2018)
 
 
 ## Links
