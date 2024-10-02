@@ -21,6 +21,11 @@ Please feel free to contribute to this page through [submitting pull requests][G
 #### Foundational Computer Science
  - [Harvard's CS50 course](https://pll.harvard.edu/course/cs50-introduction-computer-science) (free to audit)
 
+#### Software Carpentry
+ - [The Carpentries](https://carpentries.org) organize workshops and host [software carpentry learning resources, a subset of which are available in Spanish.](https://software-carpentry.org/lessons/)
+ - [Scientific software development guide for Python](https://learn.scientific-python.org/development/), an excellent resource for scientific software developers with a non-CS background (maintained by the scientific Python community).
+ - [Documenting Python Code: A Complete Guide, by James Mertz](https://realpython.com/documenting-python-code/)
+
 #### C
  - Codecademy tutorials (note: the following individual courses are free, but the 'learn C' qualification is not):
      - [Introduction](https://www.codecademy.com/learn/learn-c-introduction)
@@ -56,8 +61,6 @@ Please feel free to contribute to this page through [submitting pull requests][G
 ## Data Analysis
 
 ## Simulations
-
-## Software Carpentry
 
 ## Miscellaneous
 
